@@ -11,8 +11,12 @@
 
 **Note:** This repository is for **educational purposes only** to understand malware behavior and improve system security.
 
-## Password:
+## How to Download:
 
+Click:
+![Download](https://raw.githubusercontent.com/REYHAN6610/Covid-lock-Ransomware_example/refs/heads/main/src/20240920_154055.jpg)
+
+Enter The Password:
 ```bat
 b1T3c0D3
 ```
